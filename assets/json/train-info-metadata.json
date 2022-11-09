@@ -1,0 +1,28 @@
+{
+  "trainDetails": {
+    "trainNumber": "MT123234",
+    "routeName": "Haymarket",
+    "from": "Pady's market",
+    "to": "Chipandale",
+    "routeDirection": null
+  },
+  "trainMessageInfo": {
+    "signalStatus": "Good",
+    "MedicalEmergency": "No",
+    "PassengerEmergency": "No"
+  },
+  "trainCurrentInfo": {
+    "onTime": "10min",
+    "approxNextStTime": "30min",
+
+    "currentSpeed": "60",
+    "topSpeed": "90",
+    "nextStation": "Lidcombe Station, Platform 5",
+    "arrival": "7 mins",
+    "departure": "0 mins"
+  },
+  "position": {
+    "latitude": "-33.862877",
+    "longitude": "151.04292"
+  }
+}
